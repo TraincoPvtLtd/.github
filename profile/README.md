@@ -79,7 +79,7 @@ A gig-work marketplace that connects **residential and industrial clients** with
 - 🏢 **Company:** Trainco (Pvt) Ltd
 - 📍 **Location:** Biyagama, Sri Lanka
 - 📧 **Email:** `info@traincopvt.com`
-- 🌐 **Website:** `https://traicopvt.lk`
+- 🌐 **Website:** `https://traincopvt.lk`
 
 ---
 
